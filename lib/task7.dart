@@ -19,8 +19,12 @@ class _home2State extends State<Task7> {
           color: Colors.white,
         ),
         title: const Text(
-          'Home Screen',
-          style: TextStyle(color: Colors.white),
+          'Home Screen\n     Task 7',
+          style: TextStyle(
+            color: Colors.black,
+            fontWeight: FontWeight.bold,
+            fontSize: 20,
+          ),
         ),
         centerTitle: true,
         actions: const [
