@@ -36,10 +36,10 @@ class Task3 extends StatelessWidget {
                       Container(
                         height: 50,
                         width: 50,
-                        decoration: BoxDecoration(
-                            color: const Color.fromARGB(255, 247, 187, 207),
+                        decoration: const BoxDecoration(
+                            color: Color.fromARGB(255, 247, 187, 207),
                             borderRadius:
-                                const BorderRadius.all(Radius.circular(50))),
+                                BorderRadius.all(Radius.circular(50))),
                         child: const Icon(
                           Icons.check_circle,
                           color: Colors.pink,
@@ -57,10 +57,10 @@ class Task3 extends StatelessWidget {
                       Container(
                         height: 50,
                         width: 50,
-                        decoration: BoxDecoration(
-                            color: const Color.fromARGB(255, 238, 186, 186),
+                        decoration: const BoxDecoration(
+                            color: Color.fromARGB(255, 238, 186, 186),
                             borderRadius:
-                                const BorderRadius.all(Radius.circular(50))),
+                                BorderRadius.all(Radius.circular(50))),
                         child: const Icon(
                           Icons.message,
                           color: Colors.pink,
@@ -78,10 +78,10 @@ class Task3 extends StatelessWidget {
                       Container(
                         height: 50,
                         width: 50,
-                        decoration: BoxDecoration(
-                            color: const Color.fromARGB(255, 238, 186, 186),
+                        decoration: const BoxDecoration(
+                            color: Color.fromARGB(255, 238, 186, 186),
                             borderRadius:
-                                const BorderRadius.all(Radius.circular(50))),
+                                BorderRadius.all(Radius.circular(50))),
                         child: const Icon(
                           Icons.favorite,
                           color: Colors.pink,

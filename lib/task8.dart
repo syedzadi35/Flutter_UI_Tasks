@@ -49,7 +49,7 @@ class _Task7State extends State<Task8> {
           ),
           const Center(
               child: Text(
-            'syedacs35@gmail.com',
+            'syeda********@gmail.com',
             style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
           )),
           const SizedBox(

@@ -7,7 +7,7 @@ class Task6 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text(
+        title: const Text(
           'Task 6',
           style: TextStyle(
               color: Colors.green, fontSize: 20, fontWeight: FontWeight.bold),
@@ -66,7 +66,7 @@ class Task6 extends StatelessWidget {
                       width: 20,
                     ),
                     Text(
-                      'syedacs35@gmail.com',
+                      'syed******@gmail.com',
                       style: TextStyle(fontSize: 18, color: Colors.black),
                     ),
                   ],
@@ -92,7 +92,7 @@ class Task6 extends StatelessWidget {
                       width: 20,
                     ),
                     Text(
-                      '03426900373',
+                      '034*******73',
                       style: TextStyle(fontSize: 18, color: Colors.black),
                     ),
                   ],
