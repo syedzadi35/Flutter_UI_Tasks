@@ -234,8 +234,7 @@ class _home3State extends State<Task10> {
                                         ),
                                       ),
                                     ),
-                                    Image.asset(
-                                        'assets/images/shoes2-removebg-preview.png')
+                                    Image.asset('assets/images/new_shoe_4.png')
                                   ],
                                 ),
                               ),
